@@ -111,17 +111,17 @@ namespace 韌體解胞器
                 trans_list.ReadLine();
                 trans_list.ReadLine();
             }
-            
-            for(int i = 4; i <= 6;i++)
+
+            for (int i = 4; i <= 6; i++)
             {
-                string[] line = System.Text.RegularExpressions.Regex.Split(trans_list.ReadLine()," ");
+                string[] line = System.Text.RegularExpressions.Regex.Split(trans_list.ReadLine(), " ");
                 string cmd = line[0];
                 if (cmd == "erase" | cmd == "new" | cmd == "zero")
                 {
                     object[] temp = new object[2] { cmd, rangeset(line[1]) };
                     commands.Add(temp);
                 }
-                
+
             }
             trans_list.Close();
         }
@@ -279,7 +279,7 @@ namespace 韌體解胞器
                         List<int[]> tmpp = (List<int[]>)command[1];
                             foreach (int[] block in tmpp)
                             {
-                            if (enable == true) { 
+                            if (enable) { 
                                 long begin = block[0];
                                 long end = block[1];
                                 long block_count = end - begin;
@@ -337,6 +337,11 @@ namespace 韌體解胞器
         private void button4_Click(object sender, EventArgs e)
         {
             enable = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -7,3 +7,12 @@ c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解�
 c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.csproj.GenerateResource.Cache
 c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.exe
 c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.pdb
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\bin\Debug\韌體解胞器.exe.config
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\bin\Debug\韌體解胞器.exe
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\bin\Debug\韌體解胞器.pdb
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.csprojResolveAssemblyReference.cache
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.Form1.resources
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.Properties.Resources.resources
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.csproj.GenerateResource.Cache
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.exe
+C:\Users\xpoi5\Documents\Visual Studio 2017\Projects\韌體解胞器\dat-to-ext4\韌體解胞器\obj\Debug\韌體解胞器.pdb

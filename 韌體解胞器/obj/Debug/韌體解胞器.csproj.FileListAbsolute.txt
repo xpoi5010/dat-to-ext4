@@ -1,0 +1,9 @@
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\bin\Debug\韌體解胞器.exe.config
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\bin\Debug\韌體解胞器.exe
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\bin\Debug\韌體解胞器.pdb
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.csprojResolveAssemblyReference.cache
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.Form1.resources
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.Properties.Resources.resources
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.csproj.GenerateResource.Cache
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.exe
+c:\users\xpoi5\documents\visual studio 2017\Projects\韌體解胞器\韌體解胞器\obj\Debug\韌體解胞器.pdb

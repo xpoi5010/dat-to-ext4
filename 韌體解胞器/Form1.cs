@@ -103,6 +103,9 @@ namespace 韌體解胞器
         List<object[]> commands = new List<object[]>();
         private void parse_transfer_list_file()
         {
+            System.IO.StreamReader sr = new System.IO.StreamReader(textBox1.Text + @"\system.transfer.list"); ;
+            string[] pp = System.Text.RegularExpressions.Regex.Split(sr.ReadToEnd(), "\n");
+            sr.Close();
             trans_list = new System.IO.StreamReader(textBox1.Text + @"\system.transfer.list");
             version = Convert.ToInt32(trans_list.ReadLine());
             new_blocks = Convert.ToInt32(trans_list.ReadLine());
@@ -110,9 +113,9 @@ namespace 韌體解胞器
             {
                 trans_list.ReadLine();
                 trans_list.ReadLine();
-            }
-
-            for (int i = 4; i <= 6; i++)
+            }System.Diagnostics.Debug.Print(pp.Count().ToString());
+            
+            for (int i = 5; i <= pp.Count()-1; i++)
             {
                 string[] line = System.Text.RegularExpressions.Regex.Split(trans_list.ReadLine(), " ");
                 string cmd = line[0];
